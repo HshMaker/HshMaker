@@ -1,4 +1,9 @@
-Just a coder.
+<div align="center">
+
+### About Me
+```javascript
+console.log("Just a highschool coder.")
+```
 
 ### Languages
 <p>
