@@ -2,7 +2,7 @@
 
 ### About Me
 ```javascript
-console.log("Just a highschool coder.")
+console.log("이제는 대학생이 된.")
 ```
 
 ### Languages
