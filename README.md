@@ -2,8 +2,9 @@
 
 ### About Me
 ```javascript
-console.log("이제는 대학생이 된.")
+console.log("홍익대 컴공 26학번")
 ```
+[이미지 프레임 에디터](https://feathershot.com/)
 
 ### Languages
 <p>
