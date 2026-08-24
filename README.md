@@ -1,9 +1,5 @@
 <div align="center">
 
-### About Me
-```javascript
-console.log("홍익대 컴공 26학번")
-```
 [이미지 프레임 에디터](https://feathershot.com/)
 
 ### Languages
